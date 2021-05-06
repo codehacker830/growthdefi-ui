@@ -173,7 +173,6 @@ span.et_close_search_field:after,
 .et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_header_content_wrapper {
   font-size: 18px;
   line-height: 2em;
-  text-align: left;
 }
 .et_pb_fullwidth_header.et_pb_fullwidth_header_0 {
   background-position: bottom center;
@@ -181,9 +180,26 @@ span.et_close_search_field:after,
     linear-gradient(180deg, rgba(16, 21, 53, 0) 50%, #101535 100%);
   background-color: rgba(0, 0, 0, 0);
 }
+.et_pb_fullwidth_header.et_pb_fullwidth_header_0.gro {
+  background-size: initial;
+  background-position: bottom center;
+  background-image: url(http://seph.net/growthdefi/wp-content/uploads/2021/05/crypto-bg-03-1.png),
+    linear-gradient(180deg, rgba(16, 21, 53, 0) 50%, #101535 100%);
+  background-color: rgba(0, 0, 0, 0);
+}
 .et_pb_fullwidth_header_0 {
   padding-top: 2vw;
   padding-bottom: 40vw;
+}
+.et_pb_fullwidth_header_0.gro {
+  padding-top: 5vw;
+  padding-bottom: 15vw;
+}
+div.et_pb_section.et_pb_section_1 {
+  background-size: initial;
+  background-position: top center;
+  background-repeat: repeat-y;
+  background-image: url(http://seph.net/growthdefi/wp-content/uploads/2021/05/purple-divider.jpg) !important;
 }
 body
   #page-container

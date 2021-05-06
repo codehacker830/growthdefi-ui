@@ -16,7 +16,7 @@ export default function Gro() {
                      <div className="et_pb_fullwidth_header_container center">
                         <div className="header-content-container center">
                            <div className="header-content">
-                           <img loading="lazy" width={256} height={256} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/gro-logo.png" title alt srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/gro-logo.png 256w, http://seph.net/growthdefi/wp-content/uploads/2021/05/gro-logo-150x150.png 150w" sizes="(max-width: 256px) 100vw, 256px" className="header-logo wp-image-27" />
+                           <img loading="lazy" width={256} height={256} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/gro-logo.png" title="" alt="" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/gro-logo.png 256w, http://seph.net/growthdefi/wp-content/uploads/2021/05/gro-logo-150x150.png 150w" sizes="(max-width: 256px) 100vw, 256px" className="header-logo wp-image-27" />
                            <h1 className="et_pb_module_header">GRO Token</h1>
                            <div className="et_pb_header_content_wrapper">
                               <p className="blockParagraph-544a408c" data-key="fcf003555ca04ed1bd021212cf4c10ba"><span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="667f836fd7104675a2ba6164810fcb4b">GRO is the core token
@@ -40,7 +40,7 @@ export default function Gro() {
                      <div className="et_pb_row et_pb_row_0">
                      <div className="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
                         <div className="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
-                           <span className="et_pb_image_wrap "><img loading="lazy" src="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1.png" alt title height="auto" width="auto" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1.png 800w, http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" className="wp-image-56" /></span>
+                           <span className="et_pb_image_wrap "><img loading="lazy" src="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1.png" alt="" title="" height="auto" width="auto" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1.png 800w, http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" className="wp-image-56" /></span>
                         </div>
                      </div> {/* .et_pb_column */}
                      <div className="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -96,7 +96,7 @@ export default function Gro() {
                      </div> {/* .et_pb_column */}
                      <div className="et_pb_column et_pb_column_1_2 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
                         <div className="et_pb_module et_pb_image et_pb_image_1 et_animated et-waypoint">
-                           <span className="et_pb_image_wrap "><img loading="lazy" src="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_05-1.png" alt title height="auto" width="auto" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_05-1.png 800w, http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_05-1-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" className="wp-image-57" /></span>
+                           <span className="et_pb_image_wrap "><img loading="lazy" src="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_05-1.png" alt="" title="" height="auto" width="auto" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_05-1.png 800w, http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_05-1-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" className="wp-image-57" /></span>
                         </div>
                      </div> {/* .et_pb_column */}
                      </div> {/* .et_pb_row */}
@@ -177,7 +177,7 @@ export default function Gro() {
                      <div className="et_pb_column et_pb_column_1_2 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
                         <div className="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
                            <div className="et_pb_blurb_content">
-                           <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><img loading="lazy" width={256} height={256} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/groot-logo.png" alt srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/groot-logo.png 256w, http://seph.net/growthdefi/wp-content/uploads/2021/05/groot-logo-150x150.png 150w" sizes="(max-width: 256px) 100vw, 256px" className="et-waypoint et_pb_animation_top wp-image-28" /></span></div>
+                           <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><img loading="lazy" width={256} height={256} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/groot-logo.png" alt="" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/groot-logo.png 256w, http://seph.net/growthdefi/wp-content/uploads/2021/05/groot-logo-150x150.png 150w" sizes="(max-width: 256px) 100vw, 256px" className="et-waypoint et_pb_animation_top wp-image-28" /></span></div>
                            <div className="et_pb_blurb_container">
                               <h1 className="et_pb_module_header"><span>gROOT</span></h1>
                            </div>
@@ -187,7 +187,7 @@ export default function Gro() {
                      <div className="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
                         <div className="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
                            <div className="et_pb_blurb_content">
-                           <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><img loading="lazy" width={100} height={184} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/wheat-logo.png" alt className="et-waypoint et_pb_animation_top wp-image-29" /></span>
+                           <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><img loading="lazy" width={100} height={184} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/wheat-logo.png" alt="" className="et-waypoint et_pb_animation_top wp-image-29" /></span>
                            </div>
                            <div className="et_pb_blurb_container">
                               <h1 className="et_pb_module_header"><span>WHEAT</span></h1>
