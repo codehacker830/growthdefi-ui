@@ -1,4 +1,7 @@
 @font-face {
   font-family: "modules";
-  src: local("modules"), url(./assets/font/modules.ttf) format('truetype');
+  src: local("modules"), url(./assets/font/modules.ttf) format("truetype");
+}
+.et_pb_scroll_top:before {
+  display: none;
 }

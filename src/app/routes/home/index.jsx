@@ -21,10 +21,9 @@ export default function Home() {
                                        <p>Growth DeFi is a decentralized ecosystem that focuses on capital
                                        efficiency and maximising returns through a variety of products. The
                                        goal is to maximise tokenholder value whilst maintaining the best yields
-                        and products in the market. Growth Defi is a multi chain ecosystem.</p>
+                                       and products in the market. Growth Defi is a multi chain ecosystem.</p>
                                     </div>
-                                    <a className="et_pb_button et_pb_more_button et_pb_button_one" href="#">ASSET
-                      DOCUMENTATION</a><a className="et_pb_button et_pb_more_button et_pb_button_two" href="#">LAUNCH WHEAT APP</a>
+                                    <a className="et_pb_button et_pb_more_button et_pb_button_one" href="#">ASSET DOCUMENTATION</a><a className="et_pb_button et_pb_more_button et_pb_button_two button_purple" href="#">LAUNCH WHEAT APP</a>
                                  </div>
                               </div>
                            </div>
@@ -194,7 +193,7 @@ export default function Home() {
                            <div className="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
                               <div className="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_3 et_animated  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_dark">
                                  <div className="et_pb_blurb_content">
-                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"></span></span>
+                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"><img src="assets/image/internation.png"/></span></span>
                                     </div>
                                     <div className="et_pb_blurb_container">
                                        <h4 className="et_pb_module_header"><span>Blockchain agnostic</span></h4>
@@ -212,7 +211,10 @@ export default function Home() {
                            <div className="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
                               <div className="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_4 et_animated  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_dark">
                                  <div className="et_pb_blurb_content">
-                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon">/</span></span>
+                                    <div className="et_pb_main_blurb_image">
+                                       <span className="et_pb_image_wrap">
+                                          <span className="et-waypoint et_pb_animation_top et-pb-icon"><img src="assets/image/combine.png"/></span>
+                                       </span>
                                     </div>
                                     <div className="et_pb_blurb_container">
                                        <h4 className="et_pb_module_header"><span>Multi ASSET</span></h4>
@@ -228,7 +230,7 @@ export default function Home() {
                            <div className="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
                               <div className="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_5 et_animated  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_dark">
                                  <div className="et_pb_blurb_content">
-                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"></span></span>
+                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"><img src="assets/image/warning.png" /></span></span>
                                     </div>
                                     <div className="et_pb_blurb_container">
                                        <h4 className="et_pb_module_header"><span>Secure CONTRACTS</span></h4>
@@ -244,7 +246,7 @@ export default function Home() {
                            <div className="et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
                               <div className="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_6 et_animated  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_dark">
                                  <div className="et_pb_blurb_content">
-                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"></span></span>
+                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"><img src="assets/image/target.png" /></span></span>
                                     </div>
                                     <div className="et_pb_blurb_container">
                                        <h4 className="et_pb_module_header"><span>EXPERIENCE</span></h4>
@@ -262,7 +264,7 @@ export default function Home() {
                            <div className="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough">
                               <div className="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_7 et_animated  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_dark">
                                  <div className="et_pb_blurb_content">
-                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"></span></span>
+                                    <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><span className="et-waypoint et_pb_animation_top et-pb-icon"><img src="assets/image/card.png" /></span></span>
                                     </div>
                                     <div className="et_pb_blurb_container">
                                        <h4 className="et_pb_module_header"><span>REWARDS EVERY BLOCK</span></h4>
