@@ -170,7 +170,7 @@ span.et_close_search_field:after,
   font-size: 66px;
   line-height: 1.5em;
 }
-.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_header_content_wrapper {
+.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_header_content_wrapper_home {
   font-size: 18px;
   line-height: 2em;
   text-align: left;
@@ -1178,7 +1178,7 @@ div.et_pb_section.et_pb_section_8 {
 }
 @media only screen and (max-width: 767px) {
   .et_pb_fullwidth_header_0.et_pb_fullwidth_header
-    .et_pb_header_content_wrapper {
+    .et_pb_header_content_wrapper_home {
     font-size: 15px;
   }
   body #page-container .et_pb_section .et_pb_button_4:after {

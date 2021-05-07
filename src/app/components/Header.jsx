@@ -26,7 +26,7 @@ export default function Header() {
          <div className="container clearfix et_menu_container">
             <div className="logo_container">
                <span className="logo_helper" />
-               <a href="http://seph.net/growthdefi/">
+               <a href="/">
                   <img src="http://seph.net/growthdefi/wp-content/uploads/2021/05/logo.png" alt="Growth Defi" id="logo"
                      data-height-percentage={100} />
                </a>

@@ -17,7 +17,7 @@ export default function Home() {
                               <div className="header-content-container center">
                                  <div className="header-content">
                                     <img loading="lazy" width={1134} height={340} src="http://seph.net/growthdefi/wp-content/uploads/2021/05/logo.png" title="" alt="" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/logo.png 1134w, http://seph.net/growthdefi/wp-content/uploads/2021/05/logo-980x294.png 980w, http://seph.net/growthdefi/wp-content/uploads/2021/05/logo-480x144.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1134px, 100vw" className="header-logo wp-image-26" />
-                                    <div className="et_pb_header_content_wrapper">
+                                    <div className="et_pb_header_content_wrapper_home">
                                        <p>Growth DeFi is a decentralized ecosystem that focuses on capital
                                        efficiency and maximising returns through a variety of products. The
                                        goal is to maximise tokenholder value whilst maintaining the best yields

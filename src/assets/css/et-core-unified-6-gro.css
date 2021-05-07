@@ -159,14 +159,15 @@ span.et_close_search_field:after,
   font-size: 18px;
   line-height: 2em;
 }
-.et_pb_fullwidth_header.et_pb_fullwidth_header_0 {
+
+.et_pb_fullwidth_header.et_pb_fullwidth_header_0.gro {
   background-size: initial;
   background-position: bottom center;
   background-image: url(http://seph.net/growthdefi/wp-content/uploads/2021/05/crypto-bg-03-1.png),
     linear-gradient(180deg, rgba(16, 21, 53, 0) 50%, #101535 100%);
   background-color: rgba(0, 0, 0, 0);
 }
-.et_pb_fullwidth_header_0 {
+.et_pb_fullwidth_header_0.gro {
   padding-top: 5vw;
   padding-bottom: 15vw;
 }
@@ -267,7 +268,7 @@ body
 .et_pb_fullwidth_header_0 .et_pb_button_two.et_pb_button {
   transition: letter-spacing 300ms ease 0ms;
 }
-div.et_pb_section.et_pb_section_1 {
+div.et_pb_section.et_pb_section_1.gro {
   background-size: initial;
   background-position: top center;
   background-repeat: repeat-y;
@@ -345,7 +346,7 @@ div.et_pb_section.et_pb_section_1 {
   font-size: 16px;
   line-height: 2em;
 }
-.et_pb_section_2.et_pb_section {
+.et_pb_section_2.et_pb_section.gro {
   padding-top: 0px;
   padding-right: 0%;
   padding-bottom: 200px;
@@ -381,14 +382,14 @@ div.et_pb_section.et_pb_section_1 {
 .et_pb_tabs_0.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_active a {
   color: #ffffff !important;
 }
-div.et_pb_section.et_pb_section_3 {
+div.et_pb_section.et_pb_section_3.gro {
   background-image: linear-gradient(
     180deg,
     #12163d 0%,
     #2b2996 100%
   ) !important;
 }
-.et_pb_section_3.et_pb_section {
+.et_pb_section_3.et_pb_section.gro {
   padding-top: 400px;
   padding-right: 0px;
   padding-bottom: 120px;
@@ -419,11 +420,11 @@ div.et_pb_section.et_pb_section_3 {
 .et_pb_blurb_0 .et_pb_main_blurb_image .et_pb_image_wrap {
   width: 180px;
 }
-.et_pb_column_1 {
+.et_pb_column_1.gro {
   background-color: #101535;
   padding-top: 10%;
 }
-.et_pb_column_2 {
+.et_pb_column_2.gro {
   background-color: #101535;
   padding-top: 10%;
 }
@@ -488,7 +489,7 @@ div.et_pb_section.et_pb_section_3 {
     .et_pb_button_two.et_pb_button:hover:after {
     opacity: 1;
   }
-  .et_pb_section_2.et_pb_section {
+  .et_pb_section_2.et_pb_section.gro {
     padding-right: 10%;
     padding-bottom: 80px;
     padding-left: 10%;

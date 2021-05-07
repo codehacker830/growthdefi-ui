@@ -7,12 +7,12 @@ export default function Gro() {
             <div id="et-boc" className="et-boc">
                <div className="et-l et-l--post">
                <div className="et_builder_inner_content et_pb_gutters3">
-                  <div className="et_pb_section et_pb_section_0 et_pb_section_parallax et_pb_with_background et_pb_fullwidth_section et_section_regular">
+                  <div className="et_pb_section et_pb_section_0 et_pb_section_parallax et_pb_with_background et_pb_fullwidth_section et_section_regular gro">
                      <div className="et_parallax_bg_wrap">
                      <div className="et_parallax_bg" style={{backgroundImage: 'url(http://seph.net/growthdefi/wp-content/uploads/2021/05/crypto_illustration_11.png)'}}>
                      </div>
                      </div>
-                     <section className="et_pb_module et_pb_fullwidth_header et_pb_fullwidth_header_0 et_animated et_hover_enabled et_pb_text_align_center et_pb_bg_layout_dark">
+                     <section className="et_pb_module et_pb_fullwidth_header et_pb_fullwidth_header_0 gro et_animated et_hover_enabled et_pb_text_align_center et_pb_bg_layout_dark">
                      <div className="et_pb_fullwidth_header_container center">
                         <div className="header-content-container center">
                            <div className="header-content">
@@ -36,14 +36,14 @@ export default function Gro() {
                      <div className="et_pb_fullwidth_header_scroll" />
                      </section>
                   </div> {/* .et_pb_section */}
-                  <div className="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
-                     <div className="et_pb_row et_pb_row_0">
+                  <div className="et_pb_section et_pb_section_1 gro et_pb_with_background et_section_regular gro">
+                     <div className="et_pb_row et_pb_row_0 gro">
                      <div className="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
                         <div className="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
                            <span className="et_pb_image_wrap "><img loading="lazy" src="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1.png" alt="" title="" height="auto" width="auto" srcSet="http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1.png 800w, http://seph.net/growthdefi/wp-content/uploads/2021/05/Crypto_Illustration_03-1-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" className="wp-image-56" /></span>
                         </div>
                      </div> {/* .et_pb_column */}
-                     <div className="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+                     <div className="et_pb_column et_pb_column_1_2 et_pb_column_1 gro et_pb_css_mix_blend_mode_passthrough et-last-child">
                         <div className="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_dark">
                            <div className="et_pb_text_inner">
                            <h2>Tokenomics</h2>
@@ -69,7 +69,7 @@ export default function Gro() {
                      </div> {/* .et_pb_column */}
                      </div> {/* .et_pb_row */}
                      <div className="et_pb_row et_pb_row_1">
-                     <div className="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+                     <div className="et_pb_column et_pb_column_1_2 et_pb_column_2 gro et_pb_css_mix_blend_mode_passthrough">
                         <div className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_right et_pb_bg_layout_dark">
                            <div className="et_pb_text_inner">
                            <h2>Deflationary&nbsp;</h2>
@@ -101,7 +101,7 @@ export default function Gro() {
                      </div> {/* .et_pb_column */}
                      </div> {/* .et_pb_row */}
                   </div> {/* .et_pb_section */}
-                  <div className="et_pb_section et_pb_section_2 et_pb_section_parallax et_pb_with_background et_section_regular">
+                  <div className="et_pb_section et_pb_section_2 gro et_pb_section_parallax et_pb_with_background et_section_regular gro">
                      <div className="et_parallax_bg_wrap">
                      <div className="et_parallax_bg" style={{backgroundImage: 'url(http://seph.net/growthdefi/wp-content/uploads/2021/05/crypto-bg-02b.png)'}}>
                      </div>
@@ -142,7 +142,7 @@ export default function Gro() {
                      </div> {/* .et_pb_column */}
                      </div> {/* .et_pb_row */}
                   </div> {/* .et_pb_section */}
-                  <div className="et_pb_section et_pb_section_3 et_pb_section_parallax et_pb_with_background et_section_regular section_has_divider et_pb_top_divider">
+                  <div className="et_pb_section et_pb_section_3 gro et_pb_section_parallax et_pb_with_background et_section_regular section_has_divider et_pb_top_divider">
                      <div className="et_pb_top_inside_divider et-no-transition" />
                      <div className="et_parallax_bg_wrap">
                      <div className="et_parallax_bg" style={{backgroundImage: 'url(http://seph.net/growthdefi/wp-content/uploads/2021/05/crypto-bg-02.png)'}}>
