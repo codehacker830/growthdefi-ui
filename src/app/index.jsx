@@ -6,7 +6,39 @@ import ScrollToTop from './components/ScrollToTop';
 import Gro from './routes/gro';
 import Home from './routes/home';
 
+// import '../assets/css/et-core-unified-6-16200620328472.css'
+// import '../assets/css/et-core-unified-6-16201824223931.css'
+
 function App() {
+   React.useEffect(() => {
+      // const script1 = document.createElement("script");
+      // const script2 = document.createElement("script");
+      // const script3 = document.createElement("script");
+      // const script4 = document.createElement("script");
+      // const script5 = document.createElement("script");
+      // const script6 = document.createElement("script");
+  
+      // script1.src = "assets/js/tokens.js";
+      // script2.src = "assets/js/tokens.js";
+      // script3.src = "assets/js/tokens.js";
+      // script4.src = "assets/js/tokens.js";
+      // script5.src = "assets/js/tokens.js";
+      // script6.src = "assets/js/tokens.js";
+  
+      // script1.async = true;
+      // script2.async = true;
+      // script3.async = true;
+      // script4.async = true;
+      // script5.async = true;
+      // script6.async = true;
+  
+      // document.body.appendChild(script1);
+      // document.body.appendChild(script2);
+      // document.body.appendChild(script3);
+      // document.body.appendChild(script4);
+      // document.body.appendChild(script5);
+      // document.body.appendChild(script6);
+    }, []);
    const { pathname } = useLocation();
    if (pathname === '/') require('../assets/css/et-core-unified-6-16200620328472.css');
    else require('../assets/css/et-core-unified-6-16201824223931.css');

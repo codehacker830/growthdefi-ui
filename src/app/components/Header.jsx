@@ -5,7 +5,6 @@ import { Link, useLocation } from 'react-router-dom'
 export default function Header() {
    const { pathname } = useLocation();
    const [pageYOffset, setPageYOffset] = React.useState(0);
-
    React.useEffect(() => {
       window.addEventListener('scroll', handleScroll, { passive: true })
       return () => window.removeEventListener('scroll', handleScroll);
@@ -37,19 +36,19 @@ export default function Header() {
                   <ul id="top-menu" className="nav">
                      <li id="menu-item-93"
                         className={clsx("menu-item menu-item-type-custom menu-item-object-custom", pathname === "/" && "current-menu-item current_page_item", "menu-item-home menu-item-93")}>
-                        <Link to="/" aria-current="page">Home</Link>
+                        <a href="/" aria-current="page">Home</a>
                      </li>
                      <li id="menu-item-92"
                         className={clsx("menu-item menu-item-type-post_type menu-item-object-page menu-item-92", pathname === "/gro" && "current-menu-item page_item page-item-51 current_page_item", "menu-item-92")}>
-                        <Link to="/gro">GRO</Link>
+                        <a href="/gro">GRO</a>
                      </li>
                      <li id="menu-item-94"
                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-94">
-                        <Link to="#">gROOT</Link>
+                        <a href="#">gROOT</a>
                      </li>
                      <li id="menu-item-95"
                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-95">
-                        <Link to="#">WHEAT</Link>
+                        <a href="#">WHEAT</a>
                      </li>
                   </ul>
                </nav>
